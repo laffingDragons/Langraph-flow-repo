@@ -1,10 +1,12 @@
 
 # Langgraph
 
-<img style="text-center" width="284" alt="image" src="https://github.com/user-attachments/assets/fc62cc3e-1de1-442b-a3a0-e02714221412" />
-
 
 LangGraph, created by LangChain, is an open source AI agent framework designed to build, deploy and manage complex generative AI agent workflows. It provides a set of tools and libraries that enable users to create, run and optimize large language models (LLMs) in a scalable and efficient manner.
+
+
+<img style="text-align:center" width="284" alt="image" src="https://github.com/user-attachments/assets/fc62cc3e-1de1-442b-a3a0-e02714221412" />
+
 
 ## Requirements
 
