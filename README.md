@@ -1,7 +1,10 @@
 
-# Project Title
+# Langgraph
 
-This repository contains a project that interacts with external APIs like Arxiv and Wikipedia using LangChain. The code demonstrates how to query Arxiv and Wikipedia to retrieve information based on specific queries.
+<img style="text-center" width="284" alt="image" src="https://github.com/user-attachments/assets/fc62cc3e-1de1-442b-a3a0-e02714221412" />
+
+
+LangGraph, created by LangChain, is an open source AI agent framework designed to build, deploy and manage complex generative AI agent workflows. It provides a set of tools and libraries that enable users to create, run and optimize large language models (LLMs) in a scalable and efficient manner.
 
 ## Requirements
 
@@ -14,7 +17,7 @@ This repository contains a project that interacts with external APIs like Arxiv 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/project-name.git
+    git clone https://github.com/laffingDragons/Langraph-flow-repo.git
     ```
 
 2. Install required dependencies:
