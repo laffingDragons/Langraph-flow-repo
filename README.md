@@ -13,6 +13,12 @@ LangGraph, created by LangChain, is an open source AI agent framework designed t
 - arxiv
 - wikipedia
 
+## List of tools used
+
+- arxiv (For research paper queries)
+- wikipedia
+- groq llm
+
 ## Setup
 
 1. Clone this repository:
